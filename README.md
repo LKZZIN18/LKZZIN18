@@ -1,4 +1,4 @@
-- 👋 ola,eu sou @lkzzin
+- 👋 ola,eu sou @adriel
 - 👀 Estou interessado em aprender mais...
 - meu email de contato é adriel.ferreira18@escola.pr.gov.br
 -eu estou aprendendo a progamar recentemente a linguagem de javascript e Scrath
